@@ -1,6 +1,9 @@
-# ProjectEuler
-Here's the different python scripts I've done to solve [projecteuler.net](https://projecteuler.net/)
+# Project Euler - Personal Solutions
+## Description
+Here are my solutions to the problems on [Project Euler](https://projecteuler.net/).
+Most of those scripts were done early on in my learning of Python, algorithmic structures and math, so they aren't very optimized nor well commented.
 
-I've done most of those scripts when I was 18 and just learning how to code in Python, so most of them aren't optimized nor very well commented.
+Mostly easy solutions were tackled.
 
 projecteuler.net id: averrez
+
